@@ -1,0 +1,183 @@
+order_id,order_date,region,product,category,units_sold,unit_price,discount,revenue,profit,sales_channel,customer_segment
+ORD-0001,2025-10-31,East,Desk,Furniture,2,180,0,360,59.31,Partner,Corporate
+ORD-0002,2025-05-17,West,Phone,Electronics,12,420,0.05,4788.0,396.52,Partner,Corporate
+ORD-0003,2025-09-13,West,Laptop,Electronics,2,650,0,1300,109.09,Partner,Small Business
+ORD-0004,2025-04-16,North,Chair,Furniture,6,95,0,570,112.76,Partner,Consumer
+ORD-0005,2025-10-17,East,Notebook,Stationery,4,5,0.1,18.0,4.93,Retail,Small Business
+ORD-0006,2025-08-31,South,Desk,Furniture,10,180,0,1800,402.45,Partner,Corporate
+ORD-0007,2025-04-04,South,Pen,Stationery,11,2,0.05,20.9,3.9,Partner,Small Business
+ORD-0008,2025-02-12,North,Phone,Electronics,10,420,0,4200,693.96,Partner,Corporate
+ORD-0009,2025-02-25,,Notebook,Stationery,5,5,0.1,22.5,5.85,Partner,Corporate
+ORD-0010,2025-05-13,South,Chair,Furniture,9,95,0.05,812.25,82.38,Online,Small Business
+ORD-0011,2025-10-07,South,Chair,Furniture,4,95,0.1,342.0,90.2,Partner,Consumer
+ORD-0012,2025-01-18,North,Chair,Furniture,3,95,0.15,242.25,49.94,Retail,Consumer
+ORD-0013,2025-04-24,North,Phone,Electronics,4,420,0,1680,315.37,Retail,Small Business
+ORD-0014,2025-07-13,West,Laptop,Electronics,6,650,0,3900,462.78,Online,Corporate
+ORD-0015,2025-08-24,East,Chair,Furniture,9,95,0.05,812.25,100.06,Online,Small Business
+ORD-0016,2025-10-06,Central,Notebook,Stationery,11,5,0.05,52.25,12.67,Retail,Consumer
+ORD-0017,2025-08-16,East,Chair,Furniture,3,95,0,285,60.23,Retail,Consumer
+ORD-0018,2025-02-05,South,Notebook,Stationery,12,5,0.15,51.0,9.65,Retail,Corporate
+ORD-0019,2025-05-26,North,Desk,Furniture,9,180,0,1620,137.8,Online,Corporate
+ORD-0020,2025-05-08,South,Notebook,Stationery,12,5,0.15,51.0,13.79,Online,Corporate
+ORD-0021,2025-05-01,Central,Notebook,Stationery,12,5,0,60,16.29,Retail,Small Business
+ORD-0022,2025-07-13,North,Desk,Furniture,1,180,0.1,162.0,38.41,Online,Small Business
+ORD-0023,2025-03-30,West,Chair,Furniture,4,95,0,380,87.08,Online,Corporate
+ORD-0024,2025-11-02,Central,Pen,Stationery,5,2,0.15,8.5,1.9,Online,Small Business
+ORD-0025,2025-02-14,South,Notebook,Stationery,5,5,0.1,22.5,5.74,Retail,Corporate
+ORD-0026,2025-11-06,West,Laptop,Electronics,11,650,0.15,6077.5,840.67,Retail,Corporate
+ORD-0027,2025-06-24,South,Desk,Furniture,5,180,0.1,810.0,127.58,Retail,Small Business
+ORD-0028,2025-10-03,East,Chair,Furniture,9,95,,769.5,167.91,Retail,Consumer
+ORD-0029,2025-02-26,Central,Desk,Furniture,3,180,0.1,486.0,83.86,Online,Corporate
+ORD-0030,2025-01-19,East,Notebook,Stationery,8,5,0,40,9.46,Online,Consumer
+ORD-0031,2025-01-22,West,Notebook,Stationery,11,5,0.15,46.75,11.29,Retail,Consumer
+ORD-0032,2025-11-15,North,Desk,Furniture,10,180,0.05,1710.0,198.48,Partner,Corporate
+ORD-0033,2025-05-31,North,Notebook,Stationery,11,5,0.1,49.5,10.14,Partner,Small Business
+ORD-0034,2025-03-03,South,Notebook,Stationery,3,5,0,15,4.16,Online,Small Business
+ORD-0035,2025-08-29,East,Pen,Stationery,3,2,0.1,5.4,1.05,Online,Consumer
+ORD-0036,2025-06-17,North,Notebook,Stationery,10,5,0,50,5.34,Online,Consumer
+ORD-0037,2025-06-12,Central,Phone,Electronics,4,420,0.15,1428.0,177.78,Partner,Corporate
+ORD-0038,2025-10-15,East,Pen,Stationery,6,2,0.05,11.4,1.95,Partner,Small Business
+ORD-0039,2025-06-08,North,Phone,Electronics,6,420,0.15,2142.0,381.94,Retail,Small Business
+ORD-0040,2025-04-18,East,Phone,Electronics,11,420,0.05,4389.0,708.22,Online,Consumer
+ORD-0041,2025-08-30,South,Desk,Furniture,12,180,0.15,1836.0,363.28,Retail,Corporate
+ORD-0042,2025-06-01,West,Phone,Electronics,6,420,0,2520,614.11,Retail,Corporate
+ORD-0043,2025-10-02,Central,Notebook,Stationery,8,5,0,40,8.25,Partner,Consumer
+ORD-0044,2025-02-02,West,Chair,Furniture,4,95,0.15,323.0,80.12,Retail,Small Business
+ORD-0045,2025-01-18,West,Chair,Furniture,5,95,0,475,75.1,Partner,Small Business
+ORD-0046,2025-03-28,South,Pen,Stationery,11,2,0.1,19.8,3.97,Online,Small Business
+ORD-0047,2025-02-04,West,Notebook,Stationery,8,5,0,40,6.99,Online,Small Business
+ORD-0048,2025-09-24,Central,Desk,Furniture,2,180,0,360,43.82,Partner,Consumer
+ORD-0049,2025-05-26,West,Desk,Furniture,5,180,0.1,810.0,144.71,Partner,Small Business
+ORD-0050,2025-04-23,Central,Desk,Furniture,6,180,0,1080,256.51,Partner,Consumer
+ORD-0051,2025-02-27,East,Laptop,Electronics,12,650,0.05,7410.0,2029.8,Online,Small Business
+ORD-0052,2025-09-02,North,Laptop,Electronics,2,650,0,1300,237.04,Retail,Small Business
+ORD-0053,2025-04-12,North,Notebook,Stationery,7,5,0,35,7.4,Online,Consumer
+ORD-0054,2025-03-14,East,Phone,Electronics,8,420,0,3360,924.47,Online,Small Business
+ORD-0055,2025-01-24,North,Chair,Furniture,1,95,0.15,80.75,8.71,Online,
+ORD-0056,2025-01-05,West,Pen,Stationery,10,2,0.15,17.0,1.64,Retail,Corporate
+ORD-0057,2025-03-27,South,Pen,Stationery,12,2,0,24,3.39,Online,Consumer
+ORD-0058,2025-11-11,West,Phone,Electronics,3,420,0,1260,290.35,Online,Consumer
+ORD-0059,2025-02-02,East,Notebook,Stationery,11,5,0.05,52.25,11.04,Online,Small Business
+ORD-0060,2025-09-18,West,Pen,Stationery,3,2,0,6,0.91,Online,Small Business
+ORD-0061,2025-02-20,South,Notebook,Stationery,7,5,0.1,31.5,3.45,Partner,Corporate
+ORD-0062,2025-10-14,Central,Chair,Furniture,4,95,0.05,361.0,86.15,Retail,Consumer
+ORD-0063,2025-03-08,South,Notebook,Stationery,10,5,0,50,4.7,Retail,Small Business
+ORD-0064,2025-01-28,South,Laptop,Electronics,1,650,0.15,552.5,146.71,Retail,Corporate
+ORD-0065,2025-06-22,East,Pen,Stationery,4,2,0.15,6.8,0.67,Retail,Corporate
+ORD-0066,2025-07-12,North,Laptop,Electronics,7,650,0.15,3867.5,444.16,Partner,Consumer
+ORD-0067,2025-03-17,North,Laptop,Electronics,1,650,0.1,585.0,146.4,Partner,Small Business
+ORD-0068,2025-11-21,South,Pen,Stationery,6,2,0.15,10.2,1.65,Online,Small Business
+ORD-0069,2025-04-02,Central,Desk,Furniture,9,180,0.15,1377.0,184.18,Partner,Corporate
+ORD-0070,2025-06-22,East,Pen,Stationery,3,2,0,6,1.14,Retail,Corporate
+ORD-0071,2025-07-31,North,Desk,Furniture,12,180,0,2160,291.46,Online,Consumer
+ORD-0072,2025-07-06,West,Notebook,Stationery,10,5,0.05,47.5,12.3,Online,Small Business
+ORD-0073,2025-05-12,South,Laptop,Electronics,11,650,0.1,6435.0,1767.23,Partner,Consumer
+ORD-0074,2025-06-14,West,Notebook,Stationery,3,5,0.15,12.75,1.89,Partner,Consumer
+ORD-0075,2025-07-12,East,Notebook,Stationery,7,5,0,35,6.94,Partner,Consumer
+ORD-0076,2025-03-01,South,Laptop,Electronics,1,650,0.05,617.5,63.73,Retail,Corporate
+ORD-0077,2025-02-21,East,Phone,Electronics,6,420,0.05,2394.0,350.8,Partner,Small Business
+ORD-0078,2025-10-17,West,Chair,Furniture,12,95,0.05,1083.0,281.84,Partner,Small Business
+ORD-0079,2025-03-25,North,Desk,Furniture,9,180,0,1620,396.76,Partner,Corporate
+ORD-0080,2025-03-06,West,Pen,Stationery,11,2,0,22,1.82,Retail,Small Business
+ORD-0081,2025-04-09,North,Chair,Furniture,4,95,0.05,361.0,49.13,Partner,Consumer
+ORD-0082,2025-10-28,North,Laptop,Electronics,5,650,0.15,2762.5,666.54,Retail,Corporate
+ORD-0083,2025-11-10,West,Notebook,Stationery,8,5,0.05,38.0,6.24,Online,Consumer
+ORD-0084,2025-01-01,West,Pen,Stationery,4,2,0.15,6.8,0.71,Partner,Corporate
+ORD-0085,2025-04-22,South,Phone,Electronics,5,420,0.05,1995.0,162.45,Partner,Corporate
+ORD-0086,2025-02-13,South,Notebook,Stationery,4,5,0.15,17.0,2.76,Online,Consumer
+ORD-0087,2025-01-11,North,Notebook,Stationery,4,5,0,20,2.32,Online,Small Business
+ORD-0088,2025-06-16,Central,Notebook,Stationery,1,5,0.15,4.25,0.75,Partner,Consumer
+ORD-0089,2025-03-10,North,Phone,Electronics,5,420,0,2100,,Online,Consumer
+ORD-0090,2025-02-14,West,Laptop,Electronics,4,650,0.05,2470.0,458.65,Retail,Corporate
+ORD-0091,2025-01-24,Central,Notebook,Stationery,12,5,0,60,12.79,Online,Corporate
+ORD-0092,2025-01-01,Central,Notebook,Stationery,10,5,0.15,42.5,6.82,Retail,Small Business
+ORD-0093,2025-06-19,Central,Notebook,Stationery,11,5,0,55,10.44,Partner,Small Business
+ORD-0094,2025-02-14,South,Phone,Electronics,8,420,0.1,3024.0,722.39,Partner,Corporate
+ORD-0095,2025-05-31,South,Pen,Stationery,11,2,0.1,19.8,3.25,Partner,Consumer
+ORD-0096,2025-07-23,Central,Laptop,Electronics,2,650,0.1,1170.0,181.51,Retail,Consumer
+ORD-0097,2025-04-25,South,Notebook,Stationery,2,5,0.05,9.5,1.57,Online,Small Business
+ORD-0098,2025-09-03,East,Laptop,Electronics,8,650,0,5200,494.92,Online,Small Business
+ORD-0099,2025-04-01,Central,Phone,Electronics,1,420,0.1,378.0,85.39,Online,Small Business
+ORD-0100,2025-03-26,South,Pen,Stationery,9,2,0.1,16.2,2.4,Online,Small Business
+ORD-0101,2025-03-23,West,Phone,Electronics,6,420,0.15,2142.0,181.84,Online,Small Business
+ORD-0102,2025-07-03,South,Chair,Furniture,4,95,0.05,361.0,62.05,Online,Small Business
+ORD-0103,2025-04-07,South,Notebook,Stationery,10,5,0.15,42.5,10.23,Partner,Corporate
+ORD-0104,2025-02-21,West,Notebook,Stationery,8,5,0,40,5.98,Partner,Corporate
+ORD-0105,2025-06-13,South,Desk,Furniture,2,180,0.05,342.0,73.91,Retail,Consumer
+ORD-0106,2025-05-30,Central,Laptop,Electronics,6,650,0.15,3315.0,426.22,Online,Consumer
+ORD-0107,2025-07-11,North,Notebook,Stationery,1,5,0,5,0.62,Partner,Consumer
+ORD-0108,2025-06-25,South,Phone,Electronics,7,420,0,2940,422.83,Partner,Consumer
+ORD-0109,2025-03-07,Central,Phone,Electronics,6,420,0.1,2268.0,293.5,Retail,Consumer
+ORD-0110,2025-02-24,East,Pen,Stationery,5,2,0.1,9.0,2.0,Online,Consumer
+ORD-0111,2025-10-02,Central,Notebook,Stationery,12,5,0.15,51.0,6.81,Online,Small Business
+ORD-0112,2025-11-16,West,Phone,Electronics,11,420,0.15,3927.0,782.06,Retail,Corporate
+ORD-0113,2025-08-31,North,Phone,Electronics,7,420,0,2940,583.43,Online,Small Business
+ORD-0114,2025-06-02,Central,Pen,Stationery,2,2,0,4,0.47,Retail,Consumer
+ORD-0115,2025-07-19,East,Chair,Furniture,12,95,0.1,1026.0,268.49,Partner,Small Business
+ORD-0116,2025-06-29,South,Desk,Furniture,7,180,0.1,1134.0,247.81,Online,Small Business
+ORD-0117,2025-04-29,South,Chair,Furniture,6,95,0.15,484.5,50.03,Partner,Corporate
+ORD-0118,2025-01-10,West,Phone,Electronics,12,420,0.1,4536.0,1002.24,Partner,Small Business
+ORD-0119,2025-01-12,West,Laptop,Electronics,12,650,0.05,7410.0,997.54,Online,Small Business
+ORD-0120,2025-07-05,North,Laptop,Electronics,3,650,0.1,1755.0,403.04,Online,Corporate
+ORD-0121,2025-05-01,West,Desk,Furniture,2,180,0.15,306.0,54.47,Partner,Consumer
+ORD-0122,2025-07-04,West,Phone,Electronics,11,420,0.15,3927.0,1073.85,,Consumer
+ORD-0123,2025-02-07,East,Chair,Furniture,12,95,0.05,1083.0,205.79,Online,Small Business
+ORD-0124,2025-01-09,Central,Pen,Stationery,2,2,0.1,3.6,0.37,Partner,Small Business
+ORD-0125,2025-04-11,West,Phone,Electronics,10,420,0.1,3780.0,769.18,Retail,Corporate
+ORD-0126,2025-10-29,North,Phone,Electronics,4,420,0.1,1512.0,191.35,Retail,Consumer
+ORD-0127,2025-03-24,North,Chair,Furniture,12,95,0.05,1083.0,227.21,Partner,Small Business
+ORD-0128,2025-09-14,West,Chair,Furniture,11,95,0.05,992.75,244.22,Retail,Small Business
+ORD-0129,2025-06-23,South,Pen,Stationery,8,2,0,16,3.15,Partner,Consumer
+ORD-0130,2025-07-13,Central,Notebook,Stationery,6,5,0,30,5.14,Online,Consumer
+ORD-0131,2025-02-22,East,Phone,Electronics,3,420,0.15,1071.0,193.55,Retail,Corporate
+ORD-0132,2025-08-18,East,Laptop,Electronics,2,650,0,1300,336.5,Partner,Small Business
+ORD-0133,2025-06-29,North,Desk,Furniture,6,180,0.05,1026.0,222.05,Partner,Corporate
+ORD-0134,2025-01-05,Central,Chair,Furniture,12,95,0,1140,190.19,Online,Consumer
+ORD-0135,2025-06-10,South,Notebook,Stationery,9,5,0.15,38.25,7.4,Partner,Consumer
+ORD-0136,2025-02-15,North,Pen,Stationery,5,2,0.15,8.5,0.71,Retail,Consumer
+ORD-0137,2025-06-27,North,Chair,Furniture,8,95,0.1,684.0,155.24,Online,Corporate
+ORD-0138,2025-02-06,North,Notebook,Stationery,4,5,0.1,18.0,4.08,Online,Consumer
+ORD-0139,2025-10-03,East,Phone,Electronics,11,420,0.05,4389.0,702.51,Partner,Corporate
+ORD-0140,2025-04-28,North,Chair,Furniture,1,95,0,95,22.23,Retail,Small Business
+ORD-0141,2025-02-09,East,Desk,Furniture,6,180,0.05,1026.0,147.19,Retail,Consumer
+ORD-0142,2025-10-21,South,Phone,Electronics,7,420,0.1,2646.0,283.43,Retail,Corporate
+ORD-0143,2025-07-28,North,Phone,Electronics,2,420,0.05,798.0,203.38,Online,Corporate
+ORD-0144,2025-06-19,East,Notebook,Stationery,5,5,0,25,4.66,Retail,Consumer
+ORD-0145,2025-05-22,North,Desk,Furniture,1,180,0.05,171.0,43.91,Online,Corporate
+ORD-0146,2025-03-02,South,Phone,Electronics,1,420,0.15,357.0,77.94,Online,Consumer
+ORD-0147,2025-08-15,East,Phone,Electronics,5,420,0.15,1785.0,323.52,Partner,Corporate
+ORD-0148,2025-09-07,East,Chair,Furniture,10,95,0.15,807.5,114.31,Partner,Corporate
+ORD-0149,2025-02-27,East,Laptop,Electronics,1,650,0.1,585.0,79.65,Partner,Consumer
+ORD-0150,2025-10-06,West,Pen,Stationery,6,2,0.05,11.4,1.94,Partner,Corporate
+ORD-0151,2025-11-02,Central,Desk,Furniture,5,180,0.1,810.0,91.22,Online,Corporate
+ORD-0152,2025-09-05,South,Phone,Electronics,3,420,0.1,1134.0,128.78,Partner,Corporate
+ORD-0153,2025-07-22,South,Notebook,Stationery,9,5,0.15,38.25,7.16,Retail,Small Business
+ORD-0154,2025-03-09,North,Notebook,Stationery,3,5,0,15,1.34,Retail,Consumer
+ORD-0155,2025-08-14,North,Phone,Electronics,8,420,0.15,2856.0,531.29,Partner,Consumer
+ORD-0156,2025-03-26,South,Pen,Stationery,9,2,0,18,4.55,Retail,Consumer
+ORD-0157,2025-10-28,Central,Chair,Furniture,1,95,0,95,10.56,Partner,Corporate
+ORD-0158,2025-05-28,West,Notebook,Stationery,5,5,0,25,4.18,Partner,Consumer
+ORD-0159,2025-03-07,North,Pen,Stationery,10,2,0,20,4.21,Online,Small Business
+ORD-0160,2025-10-07,East,Phone,Electronics,9,420,0.1,3402.0,673.47,Partner,Corporate
+ORD-0161,2025-03-24,East,Laptop,Electronics,6,650,0,3900,789.4,Retail,Small Business
+ORD-0162,2025-05-05,North,Chair,Furniture,1,95,0.15,80.75,19.51,Online,Corporate
+ORD-0163,2025-07-11,Central,Chair,Furniture,12,95,0.15,969.0,206.33,Retail,Corporate
+ORD-0164,2025-04-29,South,Desk,Furniture,6,180,0.1,972.0,177.55,Partner,Consumer
+ORD-0165,2025-01-13,South,Desk,Furniture,2,180,0.15,306.0,37.52,Online,Corporate
+ORD-0166,2025-10-01,Central,Notebook,Stationery,10,5,0.05,47.5,7.8,Online,Consumer
+ORD-0167,2025-06-10,East,Pen,Stationery,12,2,0.05,22.8,5.75,Online,Small Business
+ORD-0168,2025-07-18,East,Desk,Furniture,3,180,0,540,84.84,Partner,Consumer
+ORD-0169,2025-01-06,Central,Pen,Stationery,3,2,0.15,5.1,0.59,Online,Corporate
+ORD-0170,2025-09-01,South,Pen,Stationery,10,2,0.05,19.0,3.26,Online,Consumer
+ORD-0171,2025-03-22,West,Pen,Stationery,7,2,0.1,12.6,2.86,Retail,Corporate
+ORD-0172,2025-06-05,East,Phone,Electronics,7,420,0.1,2646.0,257.93,Partner,Consumer
+ORD-0173,2025-03-26,Central,Laptop,Electronics,1,650,0.15,552.5,110.36,Online,Small Business
+ORD-0174,2025-06-13,East,Notebook,Stationery,10,5,0.15,42.5,10.3,Partner,Small Business
+ORD-0175,2025-05-04,Central,Desk,Furniture,4,180,0,720,69.75,Partner,Consumer
+ORD-0176,2025-10-07,Central,Phone,Electronics,10,420,0.1,3780.0,647.61,Online,Consumer
+ORD-0177,2025-03-01,West,Pen,Stationery,3,2,0.05,5.7,1.25,Online,Consumer
+ORD-0178,2025-10-22,Central,Laptop,Electronics,4,650,0.05,2470.0,213.24,Online,Consumer
+ORD-0179,2025-07-16,South,Desk,Furniture,12,180,0.05,2052.0,491.19,Partner,Small Business
+ORD-0180,2025-05-11,South,Pen,Stationery,12,2,0.1,21.6,1.86,Online,Small Business
+ORD-0011,2025-10-07,South,Chair,Furniture,4,95,0.1,342.0,90.2,Partner,Consumer
+ORD-0050,2025-04-23,Central,Desk,Furniture,6,180,0,1080,256.51,Partner,Consumer

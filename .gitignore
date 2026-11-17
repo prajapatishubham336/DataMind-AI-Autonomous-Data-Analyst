@@ -1,0 +1,75 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+
+# Environment Variables and Secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Testing and Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Build Files
+build/
+dist/
+*.egg-info/
+
+# Temporary Files
+*.tmp
+*.bak
+*.old
+
+# Database Files
+*.db
+*.sqlite
+*.sqlite3
+
+# Model and Large Data Files
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.pth
+
+# Streamlit
+.streamlit/cache/
+
+# Generated Reports
+reports/
+*.pdf
+
+# Archives
+*.zip
+*.rar
+*.7z
